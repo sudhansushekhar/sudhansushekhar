@@ -1,7 +1,7 @@
 # Hi, I'm Sudhanshu 👋
 
 I'm a **Senior QA Automation Engineer** with 5+ years of experience testing retail POS and ERP systems.  
-At iVend Retail I'm moving our POS and ERP regression suites from Katalon to Playwright (JavaScript).
+At iVend Retail I moved our POS and ERP regression suites from Katalon to Playwright (JavaScript).
 
 My tests don't stop at the screen. They also check that every sale is saved correctly on the server.
 
